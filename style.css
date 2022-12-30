@@ -49,3 +49,27 @@ html {
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+.song {
+    text-shadow: 3px 3px 7px #2e2e2e;
+    color: ghostwhite;
+    margin-top: 5px;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.songwriters {
+    text-shadow: 3px 3px 7px #3b3a3a;
+    text-align: center;
+    color: #666666;
+    font-size: smaller bold;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.songwriters:hover {
+    color: #2e2e2e;
+    transition: 500ms;
+}
