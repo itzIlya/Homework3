@@ -72,33 +72,34 @@ html {
 .songwriters:hover {
     color: #2e2e2e;
     transition: 500ms;
+}
 
-    .slider {
-        margin-left: 20px;
-        width: 85%;
-    }
+.slider {
+    margin-left: 20px;
+    width: 85%;
+}
 
-    .timetext {
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        color: ghostwhite;
-        font-size: 17px;
-        display: inline-block;
-        margin-right: 20px;
-        margin-left: 20px;
-    }
+.timetext {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: ghostwhite;
+    font-size: 17px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+}
 
-    .play,
-    .back,
-    .for {
-        margin-top: 5px;
-        ;
-        border-color: #ffffff;
-        width: 45px;
-        height: 45px;
-        border-radius: 50%;
-    }
+.play,
+.back,
+.for {
+    margin-top: 5px;
+    ;
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
 
 
-    .back .for .play :hover {
-        border-color: #bebebe;
-    }
+.back .for .play :hover {
+    border-color: #bebebe;
+}
