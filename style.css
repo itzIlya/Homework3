@@ -25,3 +25,33 @@ html {
 .player:hover {
     background-image: linear-gradient(rgba(171, 179, 192, 0.796), rgba(220, 234, 248, 0.792));
 }
+
+.slider {
+    margin-left: 20px;
+    width: 85%;
+}
+
+.timetext {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: ghostwhite;
+    font-size: 17px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.play,
+.back,
+.for {
+    margin-top: 5px;
+    ;
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+
+
+.back .for .play :hover {
+    border-color: #bebebe;
+}
