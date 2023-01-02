@@ -13,13 +13,14 @@ html {
 
 .player {
     margin: auto;
-    margin-top: 300px;
+    margin-top: 10%;
     display: block;
     position: relative;
     height: 400px;
     width: 270px;
     background-image: linear-gradient(rgba(171, 179, 192, 0.694), rgba(220, 234, 248, 0.674));
     border-radius: 25px;
+    box-shadow: 2px 2px 20px black;
 }
 
 .player:hover {
